@@ -47,7 +47,7 @@ I am **Sumit Prasad**, a Computer Science and Engineering student at **VIT Bhopa
 ### 🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SUMIT-5002&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=SUMIT-5002&theme=blue_navy&no-bg=true&margin-w=15" alt="Trophies" />
   </a>
 </p>
 
@@ -55,27 +55,27 @@ I am **Sumit Prasad**, a Computer Science and Engineering student at **VIT Bhopa
 
 ### 📊 My Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SUMIT-5002&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUMIT-5002&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SUMIT-5002&show_icons=true&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUMIT-5002&layout=compact&theme=blue_navy&hide_border=false" alt="Top Languages" />
+</p>
 
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SUMIT-5002&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</div>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=SUMIT-5002&theme=blue_navy&hide_border=false" alt="Streak Stats" />
+</p>
 
 ---
 
 ### 🐍 Contribution Graph
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SUMIT-5002/SUMIT-5002/output/github-contribution-grid-snake.svg" alt="Snake" />
+  <img src="https://raw.githubusercontent.com/Sumit-5002/Sumit-5002/output/github-contribution-grid-snake.svg" alt="Snake" />
 </p>
 
 ---
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quotes" />
-</div>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quotes" />
+</p>
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=SUMIT-5002&icon=0&color=0" alt="Visit Count" />
