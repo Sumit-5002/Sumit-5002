@@ -42,23 +42,21 @@ I am **Sumit Prasad**, a Computer Science and Engineering student at **VIT Bhopa
 
 </div>
 
----
 
-### 🏆 GitHub Trophies
+<!--### 🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=SUMIT-5002&theme=blue_navy&no-bg=true&margin-w=15" alt="Trophies" />
   </a>
-</p>
+</p>-->
 
 ---
-
 ### 📊 My Stats
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SUMIT-5002&show_icons=true&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUMIT-5002&layout=compact&theme=blue_navy&hide_border=false" alt="Top Languages" />
-</p>
+</p>-->
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=SUMIT-5002&theme=blue_navy&hide_border=false" alt="Streak Stats" />
@@ -71,7 +69,7 @@ I am **Sumit Prasad**, a Computer Science and Engineering student at **VIT Bhopa
   <img src="https://raw.githubusercontent.com/Sumit-5002/Sumit-5002/output/github-contribution-grid-snake.svg" alt="Snake" />
 </p>
 
----
+<!---
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quotes" />
@@ -80,3 +78,4 @@ I am **Sumit Prasad**, a Computer Science and Engineering student at **VIT Bhopa
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=SUMIT-5002&icon=0&color=0" alt="Visit Count" />
 </p>
+--->
